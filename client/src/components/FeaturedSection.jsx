@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import Title from './Title'
 import { assets } from '../assets/assets'
-import CarCard from './Carcard'
+import CarCard from './CarCard'
 import {useNavigate} from 'react-router-dom'
 import { AppContext } from '../Context/AppContext'
 import { motion } from 'motion/react'
