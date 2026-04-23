@@ -1,8 +1,8 @@
-# 🚗 RideOnEase
+# 🚗 RideOn
 
 
 
-A simple and clean car rental web app — search vehicles, book rides, and manage everything from one place.
+A simple and clean car rental web app — search vehicles, book rides, and manage bookings everything from one place.
 
 🔗 **Live Demo:** [ride-on-ease.vercel.app](https://ride-on-ease.vercel.app/)
 
@@ -13,7 +13,7 @@ A simple and clean car rental web app — search vehicles, book rides, and manag
 - 🔐 User registration & login (JWT auth)
 - 🚘 Browse & search available cars
 - 📅 Book a car & process payments
-- 🛠️ Admin dashboard to manage fleet & bookings
+- 🛠️ Admin dashboard to manage bookings
 
 ---
 
@@ -31,8 +31,8 @@ A simple and clean car rental web app — search vehicles, book rides, and manag
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/ride-on-ease.git
-cd ride-on-ease
+git clone https://github.com/Deepak-Ray-Star/rideOn.git
+cd rideon 
 
 # 2. Install dependencies
 npm install
