@@ -32,16 +32,16 @@ A simple and clean car rental web app — search vehicles, book rides, and manag
 ```bash
 # 1. Clone the repo
 git clone https://github.com/Deepak-Ray-Star/rideOn.git
-cd rideon 
 
-# 2. Install dependencies
-npm install
+# Backend setup
+-> cd server 
+-> npm install
+-> npm run server
 
-# 3. Add environment variables
-cp .env.example .env
-
-# 4. Start the server
-npm run dev
+# Frontend setup
+-> cd client 
+-> npm install 
+-> npm run dev
 ```
 
 ---
